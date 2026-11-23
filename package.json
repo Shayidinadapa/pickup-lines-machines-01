@@ -1,0 +1,1 @@
+{"description":"One pickup line, machine to machine, for the make.fun Pickup Lines for Machines bounty.","license":"MIT","main":"main.ts","name":"pickup-lines-machines-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
